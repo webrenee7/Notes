@@ -51,7 +51,7 @@
 ## 微信小程序
 
 ## Git
-[Git常用命令](https://github.com/webrenee7/Notes/issues/45)
+- [Git常用命令](https://github.com/webrenee7/Notes/issues/45)
 
 
 
